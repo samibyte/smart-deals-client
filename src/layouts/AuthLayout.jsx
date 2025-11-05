@@ -1,6 +1,4 @@
-import React from "react";
 import Navbar from "../components/ui/Navbar";
-import Login from "../pages/Login";
 import { Outlet } from "react-router";
 
 const AuthLayout = () => {

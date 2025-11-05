@@ -11,9 +11,7 @@ const MainLayout = () => {
       <main className="min-h-screen bg-surface">
         <Outlet />
       </main>
-      <>
         <Footer />
-      </>
     </div>
   );
 };
